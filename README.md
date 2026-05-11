@@ -1,2 +1,2 @@
 UML DIAGRAM
-![image](unnamed.png)
+![image](uml_diagram.png)
